@@ -1,0 +1,12 @@
+label {
+    display: inline-block;
+    width: 160px;
+}
+    
+.contenedor::-webkit-scrollbar {
+    width: 7px;
+}
+    
+.contenedor::-webkit-scrollbar-thumb {
+    background-color: lightgray;
+}
